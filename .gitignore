@@ -1,0 +1,38 @@
+# Xcode
+**/xcuserdata/
+**/xcshareddata/
+**/*.xcarchive
+**/*.ipa
+**/*.dSYM
+build/
+DerivedData/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts
+*.app
+*.o
+*.a
+*.so
+
+# Temporary files
+*.tmp
+*.log
