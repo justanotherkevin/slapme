@@ -36,3 +36,6 @@ Podfile.lock
 # Temporary files
 *.tmp
 *.log
+
+# Claude code
+claude.md
